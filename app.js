@@ -35,4 +35,5 @@ async function run(){
         await Produto.sequelize.close();
     }
 }
+
 run();
